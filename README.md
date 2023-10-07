@@ -4,7 +4,7 @@
   <img src="https://www.aluracursos.com/assets/img/imersoes/alura-latam-logo.1686744883.png" width="200">
 </p>
 
-Bienvenidos al repositorio del curso "Python para Data Science: Funciones, Librerías y Pandas básico".
+Bienvenidos al repositorio de mis apuntes del curso  "Python para Data Science: Funciones, Librerías y Pandas básico" de Alura Latam ofrecido a los gruadados AlumniONE de Oracle Next Education..
 
 ## Índice
 
@@ -16,7 +16,7 @@ Bienvenidos al repositorio del curso "Python para Data Science: Funciones, Libre
 
 ## Descripción General
 
-Este repositorio contiene todos los notebooks, bases de datos y archivos necesarios para el curso. En este curso, aprenderás desde cómo funcionan las tuplas y listas en Python hasta cómo usar la biblioteca Pandas para ciencia de datos.
+Este repositorio contiene mi notebook con mis apuntes y ejercicios tomados del curso. En este curso, aprendí desde cómo funcionan las tuplas y listas en Python hasta cómo usar la biblioteca Pandas para ciencia de datos.
 
 ## Clases
 
